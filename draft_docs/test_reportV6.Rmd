@@ -1,0 +1,31 @@
+---
+title: "Untitled"
+author: "Haven Yarl"
+date: "2025-12-09"
+output: 
+  github_document:
+    toc: true
+    toc_depth: 3
+    preserve_yaml: true
+  rmdformats::downcute:
+    toc_depth: 3
+    self_contained: true
+    thumbnails: false
+    lightbox: true
+    gallery: false
+    highlight: "tango"
+    code_folding: show
+always_allow_html: true
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding,
+  output_format = "all") }) 
+---
+
+
+# Research Design and Methodology
+
+This research utilized a mixed-method analytical design that combines both longitudinal and cross-sectional components to assess post-war development outcomes in Liberia. The first component involved a longitudinal analysis of the HDI in Liberia from 2008 to 2023, using annual national estimates published by the UNDP [(UNDP, 2024)]( https://hdr.undp.org/data-center/human-development-index#/indicies/HDI). This approach enabled the examination of long-term trends in human development across the three national development plan periods. 
+
+The second component included a cross-sectional spatial analysis based on the 2023 National Population and Housing Census. Utilizing this census data, a CWI was created to measure county-level variations in material living standards, housing quality, access to services, and other aspects of community welfare. Since the CWI data were only available for 2023, this component offers a snapshot of current conditions rather than a comparison before and after an intervention. Therefore, this study is best described as a hybrid longitudinal–cross-sectional design instead of a quasi-experimental pre-post analysis.
+
+To enhance statistical rigor, Principal Component Analysis (PCA) will be employed to assign objective, data-driven weights to each variable within the CWI. PCA reduces redundancy among correlated indicators and ensures that the final composite score accurately reflects the underlying variance in the data [(Jolliffe, I. T., & Cadima, J. 2016)](https://doi.org/10.1098/rsta.2015.0202). By relying on an empirical weighting method rather than subjective judgments, this study provides a robust and transparent framework for capturing the multidimensional nature of community well-being. Through this methodology, the analysis establishes a solid empirical foundation for evaluating the effectiveness of Liberia’s national development plans in transforming county-level living conditions between 2008 and 2023.
