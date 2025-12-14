@@ -1,41 +1,10 @@
 ---
-title: "Untitled"
-author: "Haven Yarl"
-date: "2025-12-09"
-output: 
-  github_document:
-    toc: true
-    toc_depth: 3
-    preserve_yaml: true
-  rmdformats::downcute:
-    toc_depth: 3
-    self_contained: true
-    thumbnails: false
-    lightbox: true
-    gallery: false
-    highlight: "tango"
-    code_folding: show
-always_allow_html: true
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding,
-  output_format = "all") }) 
+title: " "
+layout: single
+sidebar:
+  nav: "sidebar"
+  
 ---
-
-Untitled
-================
-Haven Yarl
-2025-12-09
-
-- [Our Goal](#our-goal)
-- [What We Do](#what-we-do)
-- [Project Management](#project-management)
-- [Strategy Planning](#strategy-planning)
-- [Research and Situation Analysis](#research-and-situation-analysis)
-- [National and Regional Development
-  planning](#national-and-regional-development-planning)
-- [Program Monitoring and
-  Evaluation](#program-monitoring-and-evaluation)
-- [Data Analytics and Visualization](#data-analytics-and-visualization)
 
 ### Our Goal
 
