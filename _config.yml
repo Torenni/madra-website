@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MADRA \nManaging \nDevelopment Results Associates"
+title                    : "MADRA"
 title_separator          : "-"
-subtitle                 : "Managing For Development Effectiveness and Efficiency"
+subtitle                 : "Managing for Development Results Associates"
 name                     : "MADRA Website"
 description              : "Managing for Development Results Associates Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
