@@ -1,0 +1,30 @@
+---
+title: "Untitled"
+author: "Haven Yarl"
+date: "2025-12-09"
+output: 
+  github_document:
+    toc: true
+    toc_depth: 3
+    preserve_yaml: true
+  rmdformats::downcute:
+    toc_depth: 3
+    self_contained: true
+    thumbnails: false
+    lightbox: true
+    gallery: false
+    highlight: "tango"
+    code_folding: show
+always_allow_html: true
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding,
+  output_format = "all") }) 
+---
+
+# Liberia Post-War Development Challenges
+
+Despite successive national development plans and significant inflows of international assistance, Liberia continues to face deep and persistent development challenges that raise critical questions about the effectiveness of its post-war development strategies. Collectively, these plans have attracted billions of dollars in donor funding and technical assistance, yet many indicators of community well-being and human development remain below regional averages [(MFDP, 2018](https://climate-laws.org/document/pro-poor-agenda-for-prosperity-and-development_85c1); [United Nations Development Programme (UNDP), 2023)](https://hdr.undp.org/data-center/specific-country-data#/countries/LBR). The persistence of poor living conditions, limited access to quality services, and high unemployment suggests that development outcomes have been unevenly distributed across the country’s fifteen counties.
+
+Recent data underscore these disparities. According to the Liberia Institute of Statistics and Geo-Information Services [(LISGIS, 2023)](https://lisgis.gov.lr/), over half of the population continues to live below the national poverty line, with substantial geographic variations between urban and rural areas. Access to electricity remains below 30 percent nationwide, and only a minority of households have improved sanitation or potable water sources [(World Bank, 2023)](https://data.worldbank.org/country/liberia). Educational attainment also lags, with inequality in education rates hovering around 42 percent, and healthcare access remains limited, particularly in rural counties [(UNDP, 2023)](https://hdr.undp.org/data-center/specific-country-data#/countries/LBR). Meanwhile, youth unemployment and underemployment remain acute, posing risks to social stability and economic productivity [(African Development Bank (AfDB), 2022)](https://www.afdb.org/en/countries/west-africa/liberia). These conditions reveal an implementation gap between national development planning and tangible improvements in citizens’ quality of life.
+
+ 

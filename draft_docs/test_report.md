@@ -1,0 +1,268 @@
+---
+title: "Untitled"
+author: "Haven Yarl"
+date: "2025-12-09"
+output: 
+  github_document:
+    toc: true
+    toc_depth: 3
+    preserve_yaml: true
+  rmdformats::downcute:
+    toc_depth: 3
+    self_contained: true
+    thumbnails: false
+    lightbox: true
+    gallery: false
+    highlight: "tango"
+    code_folding: show
+always_allow_html: true
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding,
+  output_format = "all") }) 
+---
+
+Untitled
+================
+Haven Yarl
+2025-12-09
+
+- [**Background**](#background)
+- [**Post-War Development Plans**](#post-war-development-plans)
+- [**Liberia Post-War Development
+  Challenges**](#liberia-post-war-development-challenges)
+- [**Measuring Liberia Development
+  Outcomes**](#measuring-liberia-development-outcomes)
+- [**Research Design and
+  Methodology**](#research-design-and-methodology)
+
+## **Background**
+
+Liberia’s development trajectory was profoundly shaped by its 14-year
+civil conflict (1989–2003), which devastated the nation’s economy,
+infrastructure, and human capital. Before the war, Liberia had made
+modest progress in sectors such as agriculture, mining, and education;
+however, by the end of the conflict, the country’s socioeconomic
+foundations had almost entirely collapsed. The long civil conflict
+resulted in the deaths of an estimated 150,000 to 250,000 people and
+displaced over half of the population, both internally and across
+borders [(Center for Justice and
+Accountability)](https://cja.org/where-we-work/liberia/). The nation’s
+economy experienced a near-total collapse during the civil conflict,
+with GDP per capita declining by more than 80 percent between 1980 and
+the early 2000s, making Liberia one of the world’s poorest countries
+[(World Bank, 2023)](https://data.worldbank.org/country/liberia).
+
+The conflict’s impact on infrastructure and public services was equally
+catastrophic. The World Bank reported that Liberia’s national power grid
+and water systems were completely destroyed during the war years,
+leaving most communities without electricity, clean water, or sanitation
+[(World Bank,
+2004)](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/765241468010485183/liberias-infrastructure-a-continental-perspective).
+Basic social services nearly vanished, and the health system
+disintegrated, with hospitals and clinics looted or burned. The
+education system suffered similar setbacks: thousands of schools were
+destroyed or abandoned, teachers fled the country, and an entire
+generation of children lost access to formal education [(United Nations
+Development Programme (UNDP),
+2006)](https://hdr.undp.org/system/files/documents/liberia2006en.pdf).
+
+Liberia’s labour market was severely weakened during and after the civil
+conflict, leaving much of the population dependent on precarious and
+low-productivity work. Even prior to the Ebola crisis, formal employment
+opportunities were extremely limited, and the overwhelming majority of
+workers relied on informal activities marked by low wages, unstable
+income, and high vulnerability [(Flomo et al.,
+2023)](https://doi.org/10.1002/jid.3736). Moreover, high rates of
+illiteracy, poverty, and poor health outcomes severely limiting
+citizens’ ability to rebuild their lives. Rebuilding infrastructure,
+restoring basic services, and re-establishing social stability became
+national imperatives. These conditions underscored the urgency for
+post-conflict development interventions. As the UNDP emphasized, the
+reconstruction effort required a holistic approach that addressed not
+only physical damage but also institutional and governance weaknesses
+that had contributed to fragility [(UNDP,
+2006)](https://hdr.undp.org/system/files/documents/liberia2006en.pdf).
+Furthermore, persistent inequalities between urban and rural counties,
+as well as between coastal and hinterland regions, made spatially
+targeted development strategies essential.
+
+## **Post-War Development Plans**
+
+In response to these challenges, post-war governments launched a series
+of national development plans aimed at rebuilding the economy and
+improving the well-being of its people. Each of these plans was
+supported by substantial inflows of development assistance from
+multilateral and bilateral partners.
+
+The first major national response to this challenge was the Poverty
+Reduction Strategy (PRS, 2008-2011), which sought to transition Liberia
+from emergency recovery to sustainable development. The PRS articulated
+a vision of “rapid, inclusive, and sustainable growth” structured around
+four key pillars: peace and security, economic revitalization,
+governance and rule of law, and infrastructure and basic services
+[(International Monetary Fund (IMF),
+2008)](https://www.imf.org/external/pubs/ft/scr/2008/cr08219.pdf). The
+plan’s overarching goal was to reduce poverty through the reconstruction
+of critical infrastructure, including roads, electricity, and water
+systems, while simultaneously restoring health and education services.
+The PRS also aimed to re-establish government credibility and strengthen
+public financial management after years of institutional breakdown. By
+the end of its implementation period, Liberia had recorded modest
+economic growth and some improvements in service delivery, although
+challenges remained in employment creation and equitable service
+distribution [(IMF, 2012)](https://doi.org/10.5089/9781463941055.002).
+
+Building on the progress achieved under the PRS, the government launched
+the Agenda for Transformation (AfT, 2012-2017) as the second medium-term
+development framework. The AfT represented a deliberate shift from
+post-conflict recovery toward structural transformation and inclusive
+growth. Anchored in the long-term vision of Liberia Rising 2030, the AfT
+emphasized human capital development, private sector expansion, youth
+employment, and regional equity [(Republic of Liberia,
+2013](https://faolex.fao.org/docs/pdf/lbr169062.pdf); [UNDP,
+2013](https://www.undp.org/liberia/publications/liberia-agenda-transformation)).
+It focused heavily on infrastructure, particularly roads, energy, and
+information and communications technology, as drivers of competitiveness
+and decentralization. The plan also prioritized institutional reforms
+aimed at strengthening transparency, governance, and the business
+environment. Expected outcomes included improved economic
+diversification, reduced regional disparities, and stronger human
+development indicators. Although implementation of the Agenda for
+Transformation (AfT) was disrupted by the 2014–2016 Ebola epidemic, the
+plan nonetheless consolidated many of the recovery gains achieved during
+the post-conflict period and continued to guide reform efforts in
+subsequent years [(World Bank,
+2017)](https://documents1.worldbank.org/curated/en/585371528125859387/pdf/Liberia-From-growth-to-development-priorities-for-sustainably-reducing-poverty-and-achieving-middle-income-status-by-2030.pdf).
+
+The Pro-Poor Agenda for Prosperity and Development (PAPD, 2018-2023),
+which succeeded the AfT, was designed to address persistent inequality
+and to ensure that economic growth translated into improved living
+conditions for all Liberians. The PAPD adopted a rights-based,
+equity-driven approach with four interlinked pillars: Power to the
+People (human development and empowerment), Economy and Jobs (inclusive
+economic growth and job creation), Infrastructure and Resilience
+(sustainable and climate-resilient infrastructure), and Governance and
+Transparency (accountable and inclusive institutions) [(Ministry of
+Finance and Development Planning (MFDP),
+2018)](https://climate-laws.org/document/pro-poor-agenda-for-prosperity-and-development_85c1).
+Its expected outcomes included reducing absolute poverty to below 20
+percent, increasing income for at least one million Liberians, expanding
+access to education and healthcare, and strengthening decentralization
+to ensure that every county benefits from development resources [(MFDP,
+2018)](https://climate-laws.org/document/pro-poor-agenda-for-prosperity-and-development_85c1).
+Collectively, the PRS, AfT, and PAPD trace Liberia’s gradual evolution
+from reconstruction to transformation to inclusion, reflecting an
+expanding focus from rebuilding state capacity to empowering citizens
+and promoting equitable growth across the nation’s fifteen counties.
+
+## **Liberia Post-War Development Challenges**
+
+Despite successive national development plans and significant inflows of
+international assistance, Liberia continues to face deep and persistent
+development challenges that raise critical questions about the
+effectiveness of its post-war development strategies. Collectively,
+these plans have attracted billions of dollars in donor funding and
+technical assistance, yet many indicators of community well-being and
+human development remain below regional averages [(MFDP,
+2018](https://climate-laws.org/document/pro-poor-agenda-for-prosperity-and-development_85c1);
+[United Nations Development Programme (UNDP),
+2023)](https://hdr.undp.org/data-center/specific-country-data#/countries/LBR).
+The persistence of poor living conditions, limited access to quality
+services, and high unemployment suggests that development outcomes have
+been unevenly distributed across the country’s fifteen counties.
+
+Recent data underscore these disparities. According to the Liberia
+Institute of Statistics and Geo-Information Services [(LISGIS,
+2023)](https://lisgis.gov.lr/), over half of the population continues to
+live below the national poverty line, with substantial geographic
+variations between urban and rural areas. Access to electricity remains
+below 30 percent nationwide, and only a minority of households have
+improved sanitation or potable water sources [(World Bank,
+2023)](https://data.worldbank.org/country/liberia). Educational
+attainment also lags, with inequality in education rates hovering around
+42 percent, and healthcare access remains limited, particularly in rural
+counties [(UNDP,
+2023)](https://hdr.undp.org/data-center/specific-country-data#/countries/LBR).
+Meanwhile, youth unemployment and underemployment remain acute, posing
+risks to social stability and economic productivity [(African
+Development Bank (AfDB),
+2022)](https://www.afdb.org/en/countries/west-africa/liberia). These
+conditions reveal an implementation gap between national development
+planning and tangible improvements in citizens’ quality of life.
+
+## **Measuring Liberia Development Outcomes**
+
+The primary purpose of this study is to evaluate Liberia’s post-war
+development performance by integrating national human development
+analysis with a spatially disaggregated assessment of community
+well-being. Although Liberia has implemented three national development
+plans since 2008, the long-term effects of these plans on the quality of
+life of its citizens have not been adequately assessed. Government and
+donor reporting often emphasizes program outputs, such as infrastructure
+construction or service expansion, but provides limited systematic
+evaluations of how these investments translate into actual improvements
+in people’s lives, especially at the county and regional levels.
+
+To address this gap, the study employs two complementary frameworks:
+
+**1.** **The Human Development Index (HDI)** captures national-level
+progress in education, health, and income.
+
+**2.** **The Community Well-Being Index (CWI)**, developed from
+census-based indicators, measures living standards, infrastructure
+access, and material well-being across Liberia’s fifteen counties and
+four regions.
+
+Using both the HDI and the CWI allows the study to distinguish national
+progress from subnational disparities, revealing pockets of persistent
+vulnerability that national averages may obscure. The CWI, in
+particular, provides a multidimensional view of county-level conditions
+by integrating indicators related to housing, health vulnerabilities,
+water and sanitation, educational attainment, and geographic
+disadvantage. This dual-assessment approach enables a more comprehensive
+understanding of Liberia’s development performance, identifying where
+gains have been broad-based and where structural inequalities remain
+entrenched.
+
+Ultimately, this combined HDI-CWI framework enhances the evidence base
+for evaluating the country’s development plans. It reveals not only
+whether Liberia has made overall progress but also whether that progress
+has been equitable and inclusive across counties and regions. These
+findings will help inform the design of Liberia’s next medium-term
+development strategy and guide future investments toward areas of
+greatest need.
+
+## **Research Design and Methodology**
+
+This research utilized a mixed-method analytical design that combines
+both longitudinal and cross-sectional components to assess post-war
+development outcomes in Liberia. The first component involved a
+longitudinal analysis of the HDI in Liberia from 2008 to 2023, using
+annual national estimates published by the UNDP [(UNDP,
+2024)](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI).
+This approach enabled the examination of long-term trends in human
+development across the three national development plan periods.
+
+The second component included a cross-sectional spatial analysis based
+on the 2023 National Population and Housing Census. Utilizing this
+census data, a CWI was created to measure county-level variations in
+material living standards, housing quality, access to services, and
+other aspects of community welfare. Since the CWI data were only
+available for 2023, this component offers a snapshot of current
+conditions rather than a comparison before and after an intervention.
+Therefore, this study is best described as a hybrid
+longitudinal–cross-sectional design instead of a quasi-experimental
+pre-post analysis.
+
+To enhance statistical rigor, Principal Component Analysis (PCA) will be
+employed to assign objective, data-driven weights to each variable
+within the CWI. PCA reduces redundancy among correlated indicators and
+ensures that the final composite score accurately reflects the
+underlying variance in the data [(Jolliffe, I. T., & Cadima, J.
+2016)](https://doi.org/10.1098/rsta.2015.0202). By relying on an
+empirical weighting method rather than subjective judgments, this study
+provides a robust and transparent framework for capturing the
+multidimensional nature of community well-being. Through this
+methodology, the analysis establishes a solid empirical foundation for
+evaluating the effectiveness of Liberia’s national development plans in
+transforming county-level living conditions between 2008 and 2023.
