@@ -5,3 +5,16 @@
 @charset "utf-8";
 
 @import "minimal-mistakes";
+
+/* --- MADRA: cleaner dropdown spacing like IEG --- */
+.masthead__menu-item .dropdown-menu {
+  min-width: 260px;
+  padding: 10px 0;
+}
+
+.masthead__menu-item .dropdown-menu a {
+  padding: 10px 18px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
