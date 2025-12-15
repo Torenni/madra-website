@@ -2,10 +2,23 @@
 main:
   - title: "About MADRA"
     url: /about/
+
   - title: "Reports"
     url: /reports/
+    children:
+      - title: "Key Documents"
+        url: /reports/key-documents/
+      - title: "Technical Papers"
+        url: /reports/technical-papers/
+
   - title: "Insights"
     url: /insights/
+    children:
+      - title: "Data & Dashboards"
+        url: /insights/data-dashboards/
+      - title: "Methods & Tools"
+        url: /insights/methods-tools/
+
   - title: "Blog"
     url: /blog/
 
