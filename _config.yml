@@ -29,7 +29,7 @@ logo                     : "/assets/images/madra_logo.jpeg"
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 search                   : true
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
