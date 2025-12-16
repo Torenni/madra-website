@@ -2,7 +2,10 @@
 layout: single
 title: "Reports"
 permalink: /reports/
-sidebar:
-  nav: "main"
 ---
+
+## Reports
+
+- [Key Documents](/reports/key-documents/)
+- [Technical Papers](/reports/technical-papers/)
 
