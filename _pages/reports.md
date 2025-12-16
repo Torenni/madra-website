@@ -6,6 +6,5 @@ permalink: /reports/
 
 ## Reports
 
-- [Key Documents](/reports/key-documents/)
-- [Technical Papers](/reports/technical-papers/)
-
+- [Key Documents](/madra-website/reports/key-documents/)
+- [Technical Papers](/madra-website/reports/technical-papers/)
