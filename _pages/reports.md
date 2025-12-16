@@ -1,10 +1,5 @@
 ---
-layout: single
 title: "Reports"
+layout: single
 permalink: /reports/
----
-
-## Reports
-
-- [Key Documents](/madra-website/reports/key-documents/)
-- [Technical Papers](/madra-website/reports/technical-papers/)
+--- 
