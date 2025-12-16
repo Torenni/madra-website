@@ -24,3 +24,8 @@ main:
 
   - title: "TEST NAV"
     url: /test-nav/
+    children:
+      - title: "Data & Dashboard"
+        url: /insights/data-dashboards/
+ 
+ 
