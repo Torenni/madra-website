@@ -21,3 +21,6 @@ main:
 
   - title: "Blog"
     url: /blog/
+
+  - title: "TEST NAV"
+    url: /test-nav/
