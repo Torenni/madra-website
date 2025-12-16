@@ -1,26 +1,23 @@
+# main
 main:
   - title: "About MADRA"
-    url: "{{ site.baseurl }}/about/"
+    url: /about/
 
   - title: "Reports"
-    url: "{{ site.baseurl }}/reports/"
+    url: /reports/
     children:
       - title: "Key Documents"
-        url: "{{ site.baseurl }}/reports/key-documents/"
+        url: /reports/key-documents/
       - title: "Technical Papers"
-        url: "{{ site.baseurl }}/reports/technical-papers/"
+        url: /reports/technical-papers/
 
   - title: "Insights"
-    url: "{{ site.baseurl }}/insights/"
+    url: /insights/
     children:
       - title: "Data & Dashboards"
-        url: "{{ site.baseurl }}/insights/data-dashboards/"
+        url: /insights/data-dashboards/
       - title: "Methods & Tools"
-        url: "{{ site.baseurl }}/insights/methods-tools/"
+        url: /insights/methods-tools/
 
   - title: "Blog"
-    url: "{{ site.baseurl }}/blog/"
-
-   
-
- 
+    url: /blog/
